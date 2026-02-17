@@ -1,0 +1,43 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.spec
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+*.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+*.debug
+nuitka-crash-report.xml
+
+# Build outputs
+*.exe
+*.msi
+*.zip
+/builds/
+/dist/
+
+# Local config
+*.local
+"@ | Out-File -FilePath .gitignore -Encoding utf8

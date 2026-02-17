@@ -1,0 +1,5 @@
+watchdog
+python-magic-bin
+customtkinter
+pystray
+pillow
