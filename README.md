@@ -14,8 +14,9 @@
 
 
 
-!\[Demo Screenshot](docs/screenshot.png) \*(Add a screenshot later)\*
 
+
+<img width="1919" height="1024" alt="Screenshot 2026-02-17 010042" src="https://github.com/user-attachments/assets/eeb0361e-51bd-42f1-b959-15ccf986080a" />
 
 
 \## ✨ Features
